@@ -1,0 +1,355 @@
+[
+    {
+      "id": 1,
+      "name": "Cphbusiness",
+      "img": "cphbusiness.png",
+      "educations":[
+        {
+          "id": 1,
+          "name": "Datamatiker",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Finansøkonom",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Multimediedesigner",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "KEA",
+      "img": "kea.jpg",
+      "educations":[
+        {
+          "id": 1,
+          "name": "Datamatiker",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Finansøkonom",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Multimediedesigner",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "DTU",
+      "img": "dtu.png",
+      "educations":[
+        {
+          "id": 1,
+          "name": "Elektroteknologi",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "IT-elektronik",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Bygningsdesigner",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "CBS",
+      "img": "cbs.png",
+      "educations":[
+        {
+          "id": 1,
+          "name": "HA-fil",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            },
+            {
+              "id": 6,
+              "name": "6. Semester"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "HA-kom",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            },
+            {
+              "id": 6,
+              "name": "6. Semester"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "HA-dat",
+          "semesters": [
+            {
+              "id": 1,
+              "name": "1. Semester"
+            },
+            {
+              "id": 2,
+              "name": "2. Semester"
+            },
+            {
+              "id": 3,
+              "name": "3. Semester"
+            },
+            {
+              "id": 4,
+              "name": "4. Semester"
+            },
+            {
+              "id": 5,
+              "name": "5. Semester"
+            },
+            {
+              "id": 6,
+              "name": "6. Semester"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
